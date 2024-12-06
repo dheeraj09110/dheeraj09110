@@ -16,7 +16,7 @@ Aspiring Full Stack Developer | Passionate about building secure, responsive web
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 projects
-![](www.fayulretreat.com)
+![](https://fayulretreat.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dheeraj09110&icon=0&color=0)](https://visitcount.itsvg.in)
